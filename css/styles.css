@@ -1,0 +1,16 @@
+h1 {
+  color: indigo;
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+}
+.links {
+  font-style: oblique;
+}
+ul {
+  line-height: 30px;
+}
+html {
+  background-color: pink
+}
